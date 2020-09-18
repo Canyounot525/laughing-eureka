@@ -4,7 +4,6 @@ Project-1 Files
 
 The files in this repository were used to configure the network depicted below.
 
-Diagrams/Network_Diagram.png
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](https://github.com/Canyounot525/laughing-eureka/blob/master/Diagrams/Network_Diagram.png)
 
@@ -74,7 +73,8 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Diagrams/sudo_docker_ps.png
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://github.com/Canyounot525/laughing-eureka/blob/master/Diagrams/sudo_docker_ps.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
