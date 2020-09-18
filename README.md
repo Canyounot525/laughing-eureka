@@ -4,7 +4,7 @@ Project-1 Files
 
 The files in this repository were used to configure the network depicted below.
 
-Format: ![Alt Text](https://github.com/Canyounot525/laughing-eureka/blob/master/Diagrams/Network_Diagram.png)
+![Alt Text](https://github.com/Canyounot525/laughing-eureka/blob/master/Diagrams/Network_Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the  file may be used to install only certain pieces of it, such as Filebeat.
 
